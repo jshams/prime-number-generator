@@ -34,7 +34,7 @@ actual array of booleans.
 
 Further research is required to figure out how to use PySpark for this.
 
-### 4. Combine 2 and 3 to Mater Time and Space
+### 4. Combine 2 and 3 to Master Time and Space
 
 By saving space and time this program will be able to run far more efficiently.
 Hopefully by the end of this my expectations will be exceeded. For now, I code.
